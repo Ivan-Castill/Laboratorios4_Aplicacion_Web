@@ -1,5 +1,5 @@
 # Laboratorio N° 4
-📌 GRUPO DE REFERENCIA
+📌 GRUPO DE DISCORD COMO REFERENCIA
 
 [![Screenshot-2025-04-28-110530.png](https://i.postimg.cc/Gt61MTRS/Screenshot-2025-04-28-110530.png)](https://postimg.cc/9wPS0MrG)
 📌 OBJETOS
